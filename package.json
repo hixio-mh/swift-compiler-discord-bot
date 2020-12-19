@@ -18,7 +18,7 @@
     "node-opus": "^0.3.3",
     "opusscript": "0.0.7",
     "request": "^2.88.0",
-    "request-promise": "^4.2.5",
+    "request-promise": "^4.2.6",
     "sodium": "^3.0.2",
     "uws": "^100.0.1",
     "yargs-parser": "^16.1.0"
